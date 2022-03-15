@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-    var targetImage = document.querySelector("#smart-image");
+    let targetImage = document.querySelector("#smart-image");
     alert(targetImage);
 });
